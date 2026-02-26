@@ -1,5 +1,7 @@
 # The Socratic Prompt Tutor
 
+After this session, please complete the survey: [Workshop Feedback Survey](https://uhcl.co1.qualtrics.com/jfe/form/SV_9v6D02Y3dkxxLPU)
+
 ## Overview
 
 During this workshop, we are going to build a custom "Socratic Tutor" on writing great prompts. This specialized AI
