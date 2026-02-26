@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# GitHub Copilot (local workspace files)
+.copilot/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+venv/
+.venv/
+env/
+ENV/
+.env
+.env.*
+pip-wheel-metadata/
+htmlcov/
+.coverage
+.cache
+.pytest_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+.next/
+.parcel-cache/
+
+# Logs
+logs/
+*.log
+
+# IDEs and editors
+.idea/
+*.iml
+*.sublime-workspace
+*.swp
+*.swo
+
+# Other
+Thumbs.db
